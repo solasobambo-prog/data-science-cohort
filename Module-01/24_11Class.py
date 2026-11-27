@@ -40,7 +40,7 @@ main()
 print("\n--- Part 2: For Loops ---")
 
 # Looping over a list (5 iterations)
-for num in:
+for num in range(1, 6):
     print("BOLE IS AVAILABLE!")
 
 # Looping over a string (7 characters = 7 iterations)
